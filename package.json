@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
-    "pg-promise": "^10.3.1",
+    "pg-promise": "10.15.4",
     "prettier": "^1.19.1",
     "sql-template-strings": "^2.2.2"
   },
